@@ -17,7 +17,7 @@ for (let i = 1; i <= 100; i++) {
 
             if (i % 3 == 0){
                 console.log('Fizz')
-                valoreInput.innerHTML += 'Buzz' + "<br>";
+                valoreInput.innerHTML += 'Fizz' + "<br>";
             }
 
         }
